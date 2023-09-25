@@ -10,7 +10,7 @@ public class testt {
 				
 				System.out.print("*");
 			}
-			System.out.println();
+			System.out.println(hello riz);
 		}
 	}
 
